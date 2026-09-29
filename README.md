@@ -7,8 +7,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Next.js+%2B+Payload+CMS+websites;Internal+tools+that+replace+spreadsheets;Meta+Ads+%26+email+marketing+that+convert" alt="Typing SVG" /></a>
 
 [![Website](https://img.shields.io/badge/spacekf.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://spacekf.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@spacekf.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/spacekf/))
 
 </div>
 
